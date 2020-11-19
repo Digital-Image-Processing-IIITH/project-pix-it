@@ -23,7 +23,7 @@ Team PIX-IT has worked on the Fast Bilateral-Space Stereo for Synthetic Defocus 
   - Simply run all cells of 'BilateralSolver.ipynb' in order.
 
 ## Documentation of the code
-  - [Link]("./references/documentation_html/index.html") to the documentation.
+  - Check out 'index.html' in './references/documentation' for the documentation of the code.
   - Documentation created using Sphinx documentation generator.
 
 ## Sources for stereo images
