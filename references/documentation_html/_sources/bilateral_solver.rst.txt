@@ -1,0 +1,7 @@
+bilateral\_solver module
+========================
+
+.. automodule:: bilateral_solver
+    :members:
+    :undoc-members:
+    :show-inheritance:

@@ -1,0 +1,7 @@
+bil_sol
+=======
+
+.. toctree::
+   :maxdepth: 4
+
+   bilateral_solver
