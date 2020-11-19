@@ -22,8 +22,21 @@ Team PIX-IT has worked on the Fast Bilateral-Space Stereo for Synthetic Defocus 
     - It runs all the tests
   - Simply run all cells of 'BilateralSolver.ipynb' in order.
 
-
-
 ## Sources for stereo images
 - https://vision.middlebury.edu/stereo/data/
 - https://vision.deis.unibo.it/fede/ds-stereo-lab.html
+
+## Repository Structure
+- `documents`
+  - `PIX-IT-Final.pdf`: the PDF version of final presentation. (Recommended for presentation!) 
+  - `PIX-IT-Final.pptx`
+  - `PIX-IT_mideval_presentation.pdf`
+  - `PIX-IT_mideval_presentation.pptx`
+  - 
+- `images`: contains images used in code (4 pair of stereo images)
+- `references`: contains reference papers
+- `src`
+  - `own`: [ARCHIVE] contains rough notebooks where we tried and tested different approaches
+  - `BilateralStereo.ipynb`: Main Notebook. Run this!
+- `readme.md`: [This File]
+- `proposal.md`: project proposal
